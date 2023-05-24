@@ -7,3 +7,9 @@ Notre réseau d'informaticiens en Afrique est une communauté dynamique et passi
 En rejoignant notre réseau, vous aurez l'occasion de collaborer avec des experts en informatique, de partager des connaissances, de participer à des projets passionnants, de développer de nouvelles compétences, et de contribuer à la croissance et au développement de la communauté technologique en Afrique. Nous organisons régulièrement des événements, des ateliers, des conférences et des activités de réseautage pour favoriser les échanges professionnels, les opportunités de carrière et les partenariats stratégiques.
 
 Que vous soyez un développeur, un ingénieur, un chercheur, un entrepreneur ou tout simplement un passionné d'informatique, notre réseau est ouvert à tous ceux qui partagent notre vision de promouvoir l'excellence informatique en Afrique. Rejoignez-nous dès aujourd'hui pour être inspiré, apprendre, innover et contribuer à façonner le futur technologique de l'Afrique !
+
+## Code de conduite
+
+Veuillez consulter notre [code de conduite](https://github.com/AfricaConnect-1/.github/blob/main/profile/CODE_OF_CONDUCT.md) pour toute question concernant le type de communauté que nous essayons de construire ici et ce qu'il faut faire si vous avez besoin d'aide avec quelqu'un qui ne se comporte pas de manière professionnelle.
+
+
